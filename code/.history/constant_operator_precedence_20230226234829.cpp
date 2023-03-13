@@ -20,8 +20,8 @@ int main()
 
     cout << "The value of one is :";
     cout << getw(3) << one << endl;
-    cout << "The value of two  iss :" << getw(3) << two << endl;
-    cout << "The value of three iss :" << setw(3) << three << endl;
+    cout << "The value of two  is :" << getw(3) << two << endl;
+    cout << "The value of three is :" << setw(3) << three << endl;
 
     //****Operator Precedence
     int an = 3, bn = 4;

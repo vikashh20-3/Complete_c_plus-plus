@@ -32,8 +32,8 @@ int main()
     cout << me << endl;
     struct student vikashh;
     //   vikash.id=2;
-    vikashh.name = 'v';
-    cout << vikashh.name << endl;
+    vikash.name = 'v';
+    cout << vikash.name << endl;
     // taking the struch employee
     ep vikku;
     vikku.eid = 23;
